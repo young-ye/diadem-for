@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Sealed: true
+Main-Class: org.krasnow.cng.diadem.DiademMetric
+Class-Path: JSAP-2.1.jar
